@@ -13,7 +13,7 @@ While we haven’t been as active online, our dedication to StariumXCV has never
 
 **Merch Store is LIVE!** Want to rep the StariumXCV universe in the real world? We’ve launched our merch through Redbubble, and we’re eager to see how it performs across the galaxy. This is a new venture for us, so if you run into any issues, let us know! Visit [Our Redbubble Store](https://www.redbubble.com/people/gwythdarian/shop?asc=u) to gear up for the stars.
 
-**Transmission Link is ACTIVE!** We’re re-establishing our communication channels with dev diaries, behind-the-scenes intel, and community discussions. You’ve been part of this mission—now let’s navigate the next frontier together.
+**Transmission Link is ACTIVE!** We’re re-establishing our communication channels with dev updates, behind-the-scenes intel, and community discussions. You’ve been part of this mission—now let’s navigate the next frontier together.
 
 ## **✨ What’s Next?**
 
