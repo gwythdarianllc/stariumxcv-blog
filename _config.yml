@@ -26,21 +26,22 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Minima settings for version 3.0+
 author:
   email: "socials@stariumxcv.com"
   name: "Contact Us"
 
-header_pages:
-  #- about.markdown
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
 minima:
   skin: dark
   show_excerpts: true
+  nav_pages: false
+    # - about.markdown   
   social_links:
     - title: Discord
       icon: discord
@@ -54,3 +55,15 @@ minima:
     - title: BlueSky
       icon: bluesky
       url: "https://bsky.app/profile/stariumxcv.bsky.social"
+
+# GitHub Pages requires these options to not change
+# lsi: false
+# safe: true
+# source: .
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
