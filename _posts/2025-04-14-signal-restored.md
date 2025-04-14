@@ -24,3 +24,4 @@ Momentum is building, and we are committed to keeping you informed. Expect ongoi
 StariumXCV is more than just a game, it’s a universe shaped by those who believe in it. **This is YOUR game as much as it is ours,** and together, we’re bringing this vision to life.
 
 We’re here, we’re listening, and we’d love to hear from you. Join us in the general chat to share your thoughts, ask questions, or just connect!
+
