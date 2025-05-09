@@ -15,7 +15,7 @@ docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:4 jekyll build
 ### Run the Server
 Once the site has been built, you can run the server with:
 ```
-docker run --rm --name stariumxcv-blog --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4 jekyll serve --watch --drafts
+docker run --rm --name stariumxcv-blog --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4 jekyll serve --watch --drafts --future
 ```
 
 Then navigate to localhost:4000 in your browser to view the site.
