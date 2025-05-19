@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insights: What Is StariumXCV?"
-date: 2025-05-19 02:01:00 -0500
+date: 2025-05-19 02:02:00 -0500
 ---
 We've been working on StariumXCV for years now, and we really want to share this project with people. The goal of this series is to give our audience an idea of what this game is, how it's played, and all the cool *stuff* we've been working on. 
 
