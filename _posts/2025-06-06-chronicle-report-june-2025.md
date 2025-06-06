@@ -21,7 +21,7 @@ We’re also building a new set of visual tutorials to help new players get thei
 
 Think of them as navigational beacons—clear, lightweight, and designed to ease new players into the game experience.
 
-![Tutorial Slide](assets/tutorial.png)
+![Tutorial Slide](/assets/tutorial.png)
 
 By aligning our content, tutorials, and outreach, we’re creating the conditions for long-term growth, and a smoother, more connected galaxy.
 
