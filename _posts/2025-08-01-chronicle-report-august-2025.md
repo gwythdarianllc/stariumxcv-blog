@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronicle Report: August 2025"
-date: 2025-08-01 02:01:00 -0500
+date: 2025-08-01 12:05:00 -0500
 ---
 
 Our work centered on how new players learn to play StariumXCV. The Travellers Guide has been improved to provide a better path for beginners, while development on the new web client continued.
