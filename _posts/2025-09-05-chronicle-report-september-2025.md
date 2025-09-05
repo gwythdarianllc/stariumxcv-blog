@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronicle Report: September 2025"
-date: 2025-08-01 00:05:00 -0500
+date: 2025-09-05 00:05:00 -0500
 ---
 
 Genesis is receiving major upgrades that make it easier to build our galaxies, and the Heraldry Designer is redesigned with new features.
