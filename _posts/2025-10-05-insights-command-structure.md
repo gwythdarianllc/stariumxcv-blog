@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insights: Command Structure"
-date: 2025-10-01 00:00:00 -0500
+date: 2025-10-05 10:00:00 -0500
 ---
 # Insights - Command Structure
 *Attack! Move! Hide!* -- These are some of the orders you can give out in StariumXCV, an online strategy game where players lead an interstellar Empire. Players perform most actions through commanding their forces, each with a specialized role to play. We refer to the entities that take orders from the player as "command" entities. 
