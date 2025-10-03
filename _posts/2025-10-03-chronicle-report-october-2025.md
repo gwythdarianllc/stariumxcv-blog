@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronicle Report: October 2025"
-date: 2025-09-05 00:05:00 -0500
+date: 2025-10-03 00:05:00 -0500
 ---
 
 Hey everyone!
