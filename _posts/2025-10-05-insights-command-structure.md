@@ -40,7 +40,7 @@ Fleets travel to new worlds, and new systems, exploring the space and transporti
 
 Space Combat works similarly to Ground Combat. Once the attack is launched, the battle happens instantly. Preparing a good Fleet is key to winning battles.
 
-Like Armies, Fleets have near-unlimited customization to fit your strategy. There are multiple different ship types, each with its own specializations and equipment options. If you want to dive deeper into all the different Ship types, they're all [on our wiki](https://reference.stariumxcv.com).
+Like Armies, Fleets have near-unlimited customization to fit your strategy. There are multiple different ship types, each with its own specializations and equipment options. If you want to dive deeper into all the different Ship types, they're all [on our wiki](https://reference.stariumxcv.com/index.php?title=Fleet_Designs).
 
 ## The Forces of StariumXCV
 Whether you want to use Agents to pull strings, Leaders to out-build your opponents, Armies to stomp your enemies, or Fleets to explore the cosmos, there are many ways to play StariumXCV. Which of these forces do you want to command most? Let us know in our [Discord server](https://discord.gg/JSB2CTV).
