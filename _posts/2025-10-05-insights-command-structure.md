@@ -44,6 +44,3 @@ Like Armies, Fleets have near-unlimited customization to fit your strategy. Ther
 
 ## The Forces of StariumXCV
 Whether you want to use Agents to pull strings, Leaders to out-build your opponents, Armies to stomp your enemies, or Fleets to explore the cosmos, there are many ways to play StariumXCV. Which of these forces do you want to command most? Let us know in our [Discord server](https://discord.gg/JSB2CTV).
-
-## The Forces of StariumXCV
-Whether you want to use Agents to pull strings, Leaders to out-build your opponents, Armies to stomp your enemies, or Fleets to explore the cosmos, there are many ways to play StariumXCV. Which of these forces do you want to command most? Let us know in our [Discord server](https://discord.gg/JSB2CTV).
