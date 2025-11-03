@@ -3,7 +3,6 @@ layout: post
 title: "Insights: Command Structure"
 date: 2025-10-05 10:00:00 -0500
 ---
-# Insights - Command Structure
 *Attack! Move! Hide!* -- These are some of the orders you can give out in StariumXCV, an online strategy game where players lead an interstellar Empire. Players perform most actions through commanding their forces, each with a specialized role to play. We refer to the entities that take orders from the player as "command" entities. 
 
 The command structure is made up of 4 types of game pieces: Leaders, Agents, Armies, and Fleets. 
