@@ -49,12 +49,25 @@ minima:
     - title: Facebook
       icon: facebook
       url: "https://www.facebook.com/StariumXCV"
-    - title: Instagram
-      icon: instagram
-      url: "https://www.instagram.com/stariumxcv/"
     - title: BlueSky
       icon: bluesky
       url: "https://bsky.app/profile/stariumxcv.bsky.social"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/stariumxcv/"
+    - title: TikTok
+      icon: tiktok
+      url: "https://www.tiktok.com/@stariumxcv"
+    - title: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/channel/UCgEwTnOS1tiU2jlgODSviPQ"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/company/gwythdarian-llc"
+    - title: IndieDB
+      icon: indiedb
+      url: "https://www.indiedb.com/members/stariumxcv/games"
+
 
 # GitHub Pages requires these options to not change
 # lsi: false
