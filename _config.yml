@@ -64,9 +64,6 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/company/gwythdarian-llc"
-    - title: IndieDB
-      icon: indiedb
-      url: "https://www.indiedb.com/members/stariumxcv/games"
 
 
 # GitHub Pages requires these options to not change
