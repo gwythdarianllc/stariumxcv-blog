@@ -32,6 +32,7 @@ We want our social presence to feel like an ongoing dev log and a community hang
 To support this effort, we have launched some new places where you can follow us.
 
 [Tiktok](https://www.tiktok.com/@stariumxcv){:target="_blank" rel="noopener"}
+
 [IndieDB](https://www.indiedb.com/games/stariumxcv){:target="_blank" rel="noopener"}
 
 We are feeling ready for liftoff in the coming year! 🚀
