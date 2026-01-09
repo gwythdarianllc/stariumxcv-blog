@@ -5,7 +5,7 @@ date: 2025-05-07 02:01:00 -0500
 ---
 Inside Out: Interface, Infrastructure, Insights
 
-The galaxy never stops expanding—and neither do we. Our systems are getting sleeker, smarter, and stronger. Here’s a look at this month’s highlights from the command deck.
+The galaxy never stops expanding and neither do we. Our systems are getting sleeker, smarter, and stronger. Here’s a look at this month’s highlights from the command deck.
 
 ### Current Operation: Better User Experience
 We’ve been improving UI elements, smoothing out gameplay flow, and laying the groundwork for a smoother onboarding experience. Small tweaks with big impact. Playtesting is helping us find the rough spots in our user experience, and polishing this up will continue to be a big focus.
