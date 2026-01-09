@@ -21,8 +21,8 @@
 title: The StariumXCV Chronicle
 email: socials@stariumxcv.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Get news and updates for StariumXCV. Read about what's going on with the game
-  and fun stories from development.
+  StariumXCV is a online sci fi strategy game where you lead a growing empire in a massive shared galaxy.
+  This blog follows development progress, design decisions, and deep dive insights as we build the game.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -43,6 +43,12 @@ minima:
   nav_pages: false
     # - about.markdown   
   social_links:
+    - title: Website
+      icon: globe
+      url: "https://www.stariumxcv.com"
+    - title: IndieDB
+      icon: gamepad
+      url: "https://www.indiedb.com/games/stariumxcv"
     - title: Discord
       icon: discord
       url: "https://discord.gg/JSB2CTV"
