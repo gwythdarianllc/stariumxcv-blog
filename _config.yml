@@ -44,7 +44,7 @@ minima:
     # - about.markdown   
   social_links:
     - title: Website
-      icon: globe
+      icon: rocket
       url: "https://www.stariumxcv.com"
     - title: IndieDB
       icon: gamepad
