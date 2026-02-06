@@ -71,6 +71,9 @@ minima:
       icon: linkedin
       url: "https://www.linkedin.com/company/gwythdarian-llc"
 
+kramdown:
+  smart_quotes: false
+
 
 # GitHub Pages requires these options to not change
 # lsi: false
