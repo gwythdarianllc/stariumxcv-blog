@@ -20,7 +20,7 @@ We are thrilled to have him on board.
 #### Marketing & Social Update
 As we move closer to Alpha testing, we are shifting more attention toward sharing StariumXCV with a wider audience.
 
-We are an indie team, which means we wear a lot of hats. One of our devs has officially put on their “marketing hat” to help us connect people who might enjoy a sci-fi strategy game that fits into real life.
+We are an indie team, which means we wear a lot of hats. One of our devs has officially put on their "marketing hat" to help us connect people who might enjoy a sci-fi strategy game that fits into real life.
 
 Our goals are to:
  - Reach players who might be interested in StariumXCV

@@ -9,13 +9,13 @@ Our work centered on how new players learn to play StariumXCV. The Travellers Gu
 #### Travellers Guide Renovation
 The Travellers Guide, our wiki, has undergone revision:
 
-- New Look: Redesigned with a fresh, cohesive style that aligns with StariumXCV’s evolving identity and upcoming UI.
+- New Look: Redesigned with a fresh, cohesive style that aligns with StariumXCV's evolving identity and upcoming UI.
 
 - Streamlined Navigation: Key links and categories have been reorganized so information is easier to find.
 
 - Revamped Pages: The Main Page and Getting Started page now serve as clear entry points for learning how to play.
 
-Some of the content is still under construction, and we’ll continue expanding it over the coming months.
+Some of the content is still under construction, and we'll continue expanding it over the coming months.
 
 #### User Interface: Foundations in Place
 Last month, we announced the rebuild of the StariumXCV Web Client. Since then, we have:
@@ -24,7 +24,7 @@ Last month, we announced the rebuild of the StariumXCV Web Client. Since then, w
 
 - Rebuilt how players log in
 
-Here’s a sneak peek of our new UI:
+Here's a sneak peek of our new UI:
 ![](/assets/ui-sneak-peek.png)
 
 The Travellers Guide is now a stronger resource for new players and progress on the new web client is moving forward steadily.
