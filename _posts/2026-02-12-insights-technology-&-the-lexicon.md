@@ -4,7 +4,6 @@ title: "Insights: Technology & The Lexicon"
 date: 2026-02-12 00:05:00 -0500
 ---
 
-Insights - Technology & The Lexicon
 An Empire's technology is the tool of its advancement. In StariumXCV, the player can choose what their Empire innovates, and what stays "traditional."
 
 ## Technology
