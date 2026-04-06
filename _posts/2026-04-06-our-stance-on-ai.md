@@ -10,5 +10,4 @@ This is a pretty easy stance for us to take. Most of StariumXCV's development ha
 
 StariumXCV is a human-made project, with plenty of real sweat and tears. We want to keep it that way. The human perspective is a crucial part of art. StariumXCV is the result of human experiences collaboratively coming together to create something, and we love that. We want that to be StariumXCV's story forever.
 
-
 Chat with us on [Discord](https://discord.gg/KZHu6KcS){:target="_blank" rel="noopener"} about AI or anything else. The devs are always online, and we'd love to hear from you.
