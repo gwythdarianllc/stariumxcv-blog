@@ -199,44 +199,55 @@ I'm obsessed with learning about the origin of things! Language, beliefs, civili
 ### Your Life
 
 **Are you a morning lark or a night owl?**
+
 Naturally a night owl. Forcibly, a morning lark.
 
 **What does your ideal weekend look like?**
+
 An afternoon out with my partner: coffee, international food, an escape room, a birdwatching walk, a bookstore or thrift store. Then the rest of the weekend is low-key: some gardening, games, and as much laying around as possible.
 
 **What's something you want to learn but haven't yet?**
+
 In 2013 I bought a machine and all the supplies, fully convinced I was about to become a person who sews. It's still in the box. (ADHD, if you were wondering.) I am really going to learn this year though!
 
 ### Your Interests
 
 **What are you currently reading, watching, or playing?**
+
 Reading - everything Brandon Sanderson has ever written. Playing - Mass Effect 2.
 
 **What's a rabbit hole you've fallen down online that you have zero regrets about?**
+
 My rabbit holes are always the same: where did this thing come from, and what does it mean that it exists at all. The latest is the philosophy of mathematics.
 
 ### Just for Fun
 
 **What's your go-to comfort food?**
+
 Mashed potatoes and gravy. Or ramen. I'm a simple woman.
 
 **If you could live anywhere in the world for a year, where would it be?**
+
 Thailand, Cambodia, Laos, or Vietnam.
 
 **What's one thing on your bucket list?**
+
 Hike to Mount Everest Base Camp. I just need to find the 16 days to do it and a sherpa willing to carry my emotional baggage.
 
 ### Video Games
  
 **What's the first game you ever played?**
+
 Fable 2. And I was 25!
 
 **What's a game you've replayed more times than you can count?**
+
 Skyrim. My hour count is criminal. Now ask me how many playthroughs I've actually finished!
 
 ### Sci-Fi & Tech
 
 **What was the first piece of tech that genuinely blew your mind?**
+
 Smart home technology, before it was called that. I remember hearing as a kid that Bill Gates had devices in his home that could turn on the lights and adjust the temperature when he walked in the room. That blew my mind, it was like science fiction. Now I have those things. The future is now!
 
 ---
