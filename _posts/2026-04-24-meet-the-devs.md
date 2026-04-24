@@ -4,6 +4,8 @@ title: "Meet the Devs"
 date: 2026-04-24 00:05:00 -0500
 ---
 
+We thought it would be fun to introduce ourselves. Here's who's behind StariumXCV.
+
 ## Aric
 
 ![](/assets/space-aric.png)
