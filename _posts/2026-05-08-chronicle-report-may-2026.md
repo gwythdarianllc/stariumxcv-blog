@@ -12,7 +12,7 @@ We learned some orbital mechanics, put some real math into it, and now the world
 
 Here's a look at it in motion:
 <video autoplay loop muted playsinline>
-    <source src="/assets/videos/stariumxcv-orbit.webm" type="video/webm">
+    <source src="/assets/video/stariumxcv-orbit.webm" type="video/webm">
 </video>
 
 #### Armies and Menus
