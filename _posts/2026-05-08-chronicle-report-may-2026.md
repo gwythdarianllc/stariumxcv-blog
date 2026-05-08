@@ -11,7 +11,7 @@ Two big things came together this month: the worlds move now, and the Army UI is
 We learned some orbital mechanics, put some real math into it, and now the worlds actually move on a calendar. Temporally consistent sounds dry, but what it means in practice is that the solar system feels like it exists whether you're watching or not.
 
 Here's a look at it in motion:
-<video autoplay loop muted playsinline>
+<video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/stariumxcv-orbit.webm" type="video/webm">
 </video>
 
