@@ -37,5 +37,3 @@ Things are moving, literally and figuratively. We will see you next month!
 **_Thank You For Supporting StariumXCV_**
 
 We'd love to get to know you, and we invite you to join our community on <a href="https://discord.com/invite/4aVHaRadPC" target="_blank">Discord</a>. Our devs are always around and happy to chat, whether you have questions, feedback, or just want to say hi!
-
-You can also reach us anytime at <a href="mailto:support@stariumxcv.com">support@stariumxcv.com</a>
