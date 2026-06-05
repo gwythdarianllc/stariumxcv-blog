@@ -20,6 +20,8 @@ We've implemented base-level functionality for armies and fleets. Movement, clai
     <source src="/assets/video/army-movement.webm" type="video/webm">
 </video>
 
+<br>
+
 <video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/fleet-movement.webm" type="video/webm">
 </video>
