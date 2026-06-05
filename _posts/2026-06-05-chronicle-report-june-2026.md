@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronicle Report: June 2026"
-date: 2026-06-05 00:05:00 -0500
+date: 2026-06-05 00:00:00 -0500
 ---
 
 We spread our efforts across maps, interactions, and UI this month. Here’s what’s new.
