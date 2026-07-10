@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronicle Report: June 2026"
-date: 2026-06-05 00:05:00 -0500
+date: 2026-06-05 00:00:00 -0500
 ---
 
 We spread our efforts across maps, interactions, and UI this month. Here’s what’s new.
@@ -19,6 +19,8 @@ We've implemented base-level functionality for armies and fleets. Movement, clai
 <video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/army-movement.webm" type="video/webm">
 </video>
+
+<br>
 
 <video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/fleet-movement.webm" type="video/webm">
