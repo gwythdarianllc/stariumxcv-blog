@@ -10,11 +10,12 @@ This month 's updates are a mix of technical cleanup and polishing visuals. Here
 
 Remember the PixieJS blockade from last month? We got through it. It turned out PixieJS never had proper multi-touch support, so multiple finger touch events just didn't register. Since we expect a lot of players to be on their phones, that's not something we could skip. So we built our own custom event manager to handle it, and it's working.
 
+World Map:
 <video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/world-zoom.webm" type="video/webm">
 </video>
 
-
+System Map:
 <video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/system-zoom.webm" type="video/webm">
 </video>
