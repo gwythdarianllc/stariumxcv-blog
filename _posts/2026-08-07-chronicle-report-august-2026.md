@@ -15,6 +15,7 @@ World Map:
     <source src="/assets/video/world-zoom.webm" type="video/webm">
 </video>
 
+
 System Map:
 <video autoplay loop muted playsinline style="width: 100%; max-width: 720px; display: block; margin: 0 auto;">
     <source src="/assets/video/system-zoom.webm" type="video/webm">
