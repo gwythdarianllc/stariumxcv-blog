@@ -4,7 +4,7 @@ title: "Chronicle Report: August 2026"
 date: 2026-08-07 00:05:00 -0500
 ---
 
-This month 's updates are a mix of technical cleanup and polishing visuals. Here's a look at the work we did.
+This month's updates are a mix of technical cleanup and polishing visuals. Here's a look at the work we did.
 
 #### Panning and Zooming
 
