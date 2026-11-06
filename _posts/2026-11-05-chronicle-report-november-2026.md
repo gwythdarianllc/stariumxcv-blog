@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chronicle Report: November 2026"
-date: 2026-11-05 00:06:00 -0500
+date: 2026-11-06 00:06:00 -0500
 ---
 
 We’re closing out our core gameplay milestone this month. Most of the work went into finishing the last big pieces and fixing a lot of bugs along the way. Here’s the rundown.
